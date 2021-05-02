@@ -3,12 +3,12 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-25T21:34:44.679231943Z"
+    created: "2021-05-02T18:13:46.388273624Z"
     description: A Helm chart for Kubernetes
-    digest: e74a16ebe59c24d4f4626aa2827ad516271a3ef9e72fb3535cdc594431390879
+    digest: 0e233553d566f428e199c82072b47c2b98f856d3c43e64df4c27f104fbd35f86
     name: myapp
     type: application
     urls:
     - https://ugofly.github.io/helmapp23/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-25T21:34:44.678426576Z"
+generated: "2021-05-02T18:13:46.38746851Z"
